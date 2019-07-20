@@ -39,7 +39,7 @@ ui.R
 server.R
 README.md
 
-Data File: GE_india_2014_results.csv
+Data File: GE_india_2019_results.csv
   
 The ui.R and server.R are the code for the shiny application
 
