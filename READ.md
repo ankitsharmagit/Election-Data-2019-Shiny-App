@@ -39,11 +39,14 @@ ui.R
 server.R
 README.md
 
-Data File:GE_india_2014_results.csv
+Data File: GE_india_2014_results.csv
   
-The ui.R and server.R are the code for the shiny application: https://ankitsh.shinyapps.io/ElectionData2019ShinyApplication/
+The ui.R and server.R are the code for the shiny application
+
+Reproducible Pitch Presentation:
+http://rpubs.com/ankitsharma185/ElectiondataPresentation
   
-  Application Details:
+ Application Details:
   
 The shiny application is deployed on ShinyApps.io server at:
 https://ankitsh.shinyapps.io/ElectionData2019ShinyApplication/
