@@ -10,7 +10,7 @@ library(dplyr)
 data<-read.csv("GE_india_2014_results.csv")
 shinyServer(function(input, output) {
 
-    # Show the cars that correspond to the filters
+    # Show the data that correspond to the filters
     output$table <- renderDataTable({
         evmvote_seq <- seq(from = input$evmvoteinput[1], to = input$evmvoteinput[2], by = 1)
         postalvote_seq <- seq(from = input$postalvoteinput[1], to = input$postalvoteinput[2], by = 1)
