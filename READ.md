@@ -44,7 +44,7 @@ Data File: GE_india_2014_results.csv
 The ui.R and server.R are the code for the shiny application
 
 Reproducible Pitch Presentation:
-http://rpubs.com/ankitsharma185/ElectiondataPresentation
+http://rpubs.com/ankitsharma185/Electiondata2019Presentation
   
  Application Details:
   
