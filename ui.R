@@ -2,7 +2,6 @@
 
 # ui.R file for the shiny app
 
-# This app was developed to help people choose the best car for their trip, using mtcars dataset, from [R] 
 
 library(markdown)
 data<-read.csv("GE_india_2014_results.csv")
